@@ -6,7 +6,9 @@ Displaying my ability to create a random password generator by manipulating Java
 ## Usage
 This screenshot shows the deployed website which shows a 50 character randomly generated password including numbers, letters, symbols, and upper and lowercase letters.
 
-![ScreenShot](image.png)
+![Working Generator](image.png)
+![Prompt Box](image-1.png)
+![If all prompts are denied](image-2.png)
 
 ## Credits
 https://www.w3schools.com/ ||
