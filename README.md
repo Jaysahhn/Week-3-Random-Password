@@ -15,7 +15,8 @@ This screenshot shows what happens when all confirms are denied.
 
 ## Credits
 https://www.w3schools.com/ ||
-https://stackoverflow.com/
+https://stackoverflow.com/ ||
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 Cody Thompson: https://github.com/codyleight ||
 Bijan Olfati: https://github.com/bolfati
